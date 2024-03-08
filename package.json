@@ -25,6 +25,7 @@
   "dependencies": {
     "@pakforlay/add-watermark": "^1.0.6",
     "@mmoneybbichs/personal-web-api": "^1.0.1",
+    "@umadleets/learning-nodejs": "1.0.0",
     "body-parser": "1.20.2",
     "cookie-parser": "1.4.6",
     "ejs": "^3.1.9",
